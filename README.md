@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Kerman Pillay </h1>
 <h3 align="center">A Cloud/DevOps/Platform  Engineer based in Durban(South Africa)</h3>
-<img align="right"alt="Coding" width="400" src="[https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png](https://www.vlrtraining.in/wp-content/uploads/2020/10/logo-devops.png)"> 
+<img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kermanp&label=Profile%20views&color=0e75b6&style=flat" alt="kermanp" /> </p>
 
